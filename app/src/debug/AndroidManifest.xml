@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="io.github.yaziedda.submission2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="id.github.yaziedda.submission2.testing.SingleFragmentActivity" />
+    </application>
+</manifest>
